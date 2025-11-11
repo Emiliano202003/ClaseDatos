@@ -5,7 +5,7 @@ import numpy as np
 from io import StringIO
 import plotly.express as px
 
-st.set_page_config(page_title="US Shootings 2015 - Dashboard", layout="wide")
+st.set_page_config(page_title="US Shootings 2015 - Dashboard - Emiliano Razo", layout="wide")
 
 # ---------------- HTML header (requisito HTML) ----------------
 st.markdown(
@@ -310,3 +310,4 @@ with tab3:
 
 # Footer
 st.caption("© Tarea 2 · Streamlit · Visualización basada en datasets del curso (2015)")
+
