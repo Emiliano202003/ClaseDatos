@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 
 # ---------------------- Configuración de página ----------------------
-st.set_page_config(page_title="US Shootings Dashboard — 2015", layout="wide")
+st.set_page_config(page_title="US Shootings Dashboard — 2015 - Emiliano Razo", layout="wide")
 
 # ---------------------- Encabezado HTML (requisito HTML) ----------------------
 st.markdown(
@@ -336,3 +336,4 @@ with tab3:
 
 # ---------------------- Footer ----------------------
 st.caption("© Tarea 2 · Streamlit · Visualización basada en datasets del curso (2015)")
+
